@@ -1,6 +1,6 @@
-# Meteora Pumpfun Smart Contract
+# Pump.fun Smart Contract
 
-In the original pumpfun on Solana, the virtual pools are migrated into Raydium. In this repository, the main focus is on pumpfun Meteora Migration. You can contact me if you have some questions about meteora pumpfun smart contract development.
+Original Pump.fun Smart Contract Fork. Instead of migrating to the Raydium, it migrates to the Meteora DEX
 
 # Transaction History
 ### Config Tx
