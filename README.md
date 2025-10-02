@@ -15,4 +15,4 @@ Original Pump.fun Smart Contract Fork. Instead of migrating to the Raydium, it m
 - https://solscan.io/tx/5XNF1knS9duDYci9q129cTe2i77sVsdMi4JCgquAJBsZKk7L8Ga1bVeRFUi5SDnShjK233dVsk4om4R8KkxWXNGK?cluster=custom&customUrl=https://api.devnet.solana.com
 
 # Contact
-[AnotherRusty](https://t.me/idioRusty)
+[AnotherRusty](https://t.me/Rust0x_726)
